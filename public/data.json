@@ -1,0 +1,122 @@
+[
+    {
+        "brand": "Patek Philippe",
+        "model": "Grandmaster Chime Ref. 6300A-010",
+        "price": "$31 million",
+        "id": "patek_philippe_grandmaster_chime",
+        "image": "/src/assets/1.jpg",
+        "origin_country": "Switzerland",
+        "origin_city": "Geneva",
+        "establishment_year": 1839
+    },
+    {
+        "brand": "Audemars Piguet",
+        "model": "Royal Oak Offshore Chronograph",
+        "price": "$100,000",
+        "id": "audemars_piguet_royal_oak_offshore",
+        "image": "/src/assets/2.webp",
+        "origin_country": "Switzerland",
+        "origin_city": "Le Brassus",
+        "establishment_year": 1875
+    },
+    {
+        "brand": "Rolex",
+        "model": "Cosmograph Daytona",
+        "price": "$75,000",
+        "id": "rolex_cosmograph_daytona",
+        "image": "/src/assets/3.webp",
+        "origin_country": "Switzerland",
+        "origin_city": "Geneva",
+        "establishment_year": 1905
+    },
+    {
+        "brand": "Richard Mille",
+        "model": "RM 50-03 McLaren F1",
+        "price": "$1.6 million",
+        "id": "richard_mille_rm_50_03_mclaren_f1",
+        "image": "/src/assets/4.webp",
+        "origin_country": "Switzerland",
+        "origin_city": "Les Breuleux",
+        "establishment_year": 2001
+    },
+    {
+        "brand": "Breguet",
+        "model": "Marine Tourbillon Équation Marchante 5887",
+        "price": "$250,000",
+        "id": "breguet_marine_tourbillon",
+        "image": "/src/assets/5.jpg",
+        "origin_country": "Switzerland",
+        "origin_city": "L'Abbaye",
+        "establishment_year": 1775
+    },
+    {
+        "brand": "Vacheron Constantin",
+        "model": "Traditionnelle Perpetual Calendar Openworked",
+        "price": "$200,000",
+        "id": "vacheron_constantin_traditionnelle_perpetual_calendar",
+        "image": "/src/assets/6.jpg",
+        "origin_country": "Switzerland",
+        "origin_city": "Geneva",
+        "establishment_year": 1755
+    },
+    {
+        "brand": "Jaeger-LeCoultre",
+        "model": "Master Grande Tradition Gyrotourbillon Westminster Perpétuel",
+        "price": "$800,000",
+        "id": "jaeger_lecoultre_master_grande_tradition_gyrotourbillon",
+        "image": "/src/assets/7.jpg",
+        "origin_country": "Switzerland",
+        "origin_city": "Le Sentier",
+        "establishment_year": 1833
+    },
+    {
+        "brand": "Omega",
+        "model": "Seamaster Aqua Terra 150M",
+        "price": "$5,000",
+        "id": "omega_seamaster_aqua_terra",
+        "image": "/src/assets/8.webp",
+        "origin_country": "Switzerland",
+        "origin_city": "Biel/Bienne",
+        "establishment_year": 1848
+    },
+    {
+        "brand": "Hublot",
+        "model": "Big Bang Unico",
+        "price": "$40,000",
+        "id": "hublot_big_bang_unico",
+        "image": "/src/assets/9.jpg",
+        "origin_country": "Switzerland",
+        "origin_city": "Nyon",
+        "establishment_year": 1980
+    },
+    {
+        "brand": "Cartier",
+        "model": "Tank Solo",
+        "price": "$3,000",
+        "id": "cartier_tank_solo",
+        "image": "/src/assets/10.png",
+        "origin_country": "France",
+        "origin_city": "Paris",
+        "establishment_year": 1847
+    },
+    {
+        "brand": "IWC Schaffhausen",
+        "model": "Portugieser Perpetual Calendar",
+        "price": "$30,000",
+        "id": "iwc_schaffhausen_portugieser_perpetual_calendar",
+        "image": "/src/assets/11.jpg",
+        "origin_country": "Switzerland",
+        "origin_city": "Schaffhausen",
+        "establishment_year": 1868
+    },
+    {
+        "brand": "Bvlgari",
+        "model": "Octo Finissimo Tourbillon Automatic",
+        "price": "$120,000",
+        "id": "bvlgari_octo_finissimo_tourbillon",
+        "image": "/src/assets/12.jpeg",
+        "origin_country": "Italy",
+        "origin_city": "Rome",
+        "establishment_year": 1884
+    }
+]
